@@ -2,7 +2,8 @@ def add(a, b):
     return a + b
 
 def subtract(a, b):
-    return a + b  # <--- intentional bug, fix later
+ #   return a + b  # <--- intentional bug, fix later
+     return a - b
 
 def multiply(a, b):
     return a * b
